@@ -1,3 +1,3 @@
-# restaurant
+# Restaurant
 
 Landing Page for a restaurant.
